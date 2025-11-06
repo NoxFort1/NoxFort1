@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Bartosz and I'm a student of computer science from Poland</h2>
+<h2 align="left">Hi 👋! I'm Bartosz</h2>
 
-###
+### 💻 Computer Science Student | 🇵🇱 Poland
+
+I'm a Computer Science student at Silesian University of Technology, passionate about data science and neural networks.
 
 <p align="left">I'm currently working on few machine learning and nerual network projects.</p>
 
