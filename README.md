@@ -2,9 +2,7 @@
 
 ### 💻 Computer Science Student | 🇵🇱 Poland
 
-I'm a Computer Science student at Silesian University of Technology, passionate about data science and neural networks.
-
-<p align="left">I'm currently working on few machine learning and nerual network projects.</p>
+<p align="left">I'm a Computer Science student at Silesian University of Technology, passionate about data science and neural networks.</p>
 
 ###
 
